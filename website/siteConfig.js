@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'www.linkedin.com/in/s-andy-short',
+        linkedin: 'www.linkedin.com/in/sashort0',
         github: 'sashort',
     },
 
